@@ -1,0 +1,137 @@
+#navi{
+  background-color: #ff4c68;
+
+  font-family: 'Ubuntu', sans-serif;
+
+  padding: 3%;
+  color: #fff;
+}
+
+.navbar-brand{
+  color: #fff;
+  font-size: 2rem;
+}
+
+.nav-link{
+  color: #fff;
+  font-weight: 100;
+}
+
+#intro{
+
+  text-align: center;
+
+  background-color: #ff4c68;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+
+  padding: 15% 15% 30%;
+}
+
+h1{
+  font-size: 3.5rem;
+  font-weight: 900;
+}
+h2{
+  margin-top:1.5rem;
+}
+
+.dp{
+  width: 40%;
+  border-radius: 100%;
+
+}
+
+.section-head{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 400;
+}
+
+#graphic{
+
+  text-align: center;
+  padding: 10% 15%;
+}
+
+.graphic-imgs{
+  width: 60%;
+  /* height: 10%; */
+}
+
+.carousel-control-prev-icon{
+  color: #000;
+}
+
+#shortfilms{
+
+
+  text-align: center;
+  padding: 10% 15%;
+
+}
+.carousel-vid-link{
+  font-size: 1.5rem;
+}
+
+.arrow-fa{
+  font-size: 2rem;
+}
+
+#photography{
+  text-align: center;
+  padding: 10% 15%;
+
+}
+
+#writeups{
+
+  text-align: center;
+  padding: 10% 15%;
+
+}
+
+#interviews{
+
+  text-align: center;
+  padding: 10% 15%;
+}
+
+#voxpop{
+
+  text-align: center;
+  padding: 10% 15%;
+
+}
+
+#research{
+
+  text-align: center;
+  padding: 10% 15%;
+
+}
+#certifications{
+
+  text-align: center;
+  padding: 10% 15%;
+
+}
+
+#contact{
+  background-color: #ff4c68;
+  padding: 10% 15%;
+  color: #fff;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+.logo-fa{
+  font-size: 3rem;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 3%;
+  color: #fff;
+}
+
+.logo-fa:hover{
+  color: #000;
+}
