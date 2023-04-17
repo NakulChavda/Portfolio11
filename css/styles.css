@@ -25,7 +25,18 @@
   font-family: 'Montserrat', sans-serif;
   color: #fff;
 
-  padding: 15% 15% 30%;
+  padding: 10% 15% 15%;
+}
+
+.company{
+  width: 60%;
+}
+
+@media(max-width: 800px)
+{
+  .company {
+    width: 200%;
+  }
 }
 
 h1{
